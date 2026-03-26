@@ -481,6 +481,10 @@ form button:hover {
 		margin: 20px;
 	}
 
+	.div-four {
+		width: 300px;
+	}
+
 	.div-part {
 		width: 70%;
 	}
