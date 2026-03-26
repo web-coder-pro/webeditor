@@ -450,6 +450,10 @@ form button:hover {
 		width: 400px;
 		margin: 20px;
 	}
+
+	.div-four {
+		width: 400px;
+	}
 }
 
 @media(max-width: 375px) {
